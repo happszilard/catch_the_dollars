@@ -10,7 +10,7 @@ Download the files and run the Main.
 
 Check out the in-game Help section and enjoy :)
 
-![alt text](start.png)
-![alt text](help.png)
-![alt text](game.png)
-![alt text](gameover.png)
+<img src="start.png" alt="image" width="250"/>
+<img src="help.png" alt="image" width="250"/>
+<img src="game.png" alt="image" width="250"/>
+<img src="gameover.png" alt="image" width="250"/>
