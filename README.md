@@ -1,16 +1,25 @@
-# Catch the dollars!
+# 🎯 Catch the Dollars!
 
-Catch the dollars! is a simple game implemented in Java.
+**Catch the Dollars!** is a simple and fun game implemented in **Java** where players catch falling dollars while avoiding obstacles.
 
-## Installation
+## 📦 Installation
 
-Download the files and run the Main.
+1. Clone or download this repository.
+2. Compile and run the `Main.java` file in your preferred Java IDE or using the terminal.
 
-## Usage
+## 🚀 How to Play
 
-Check out the in-game Help section and enjoy :)
+- Move your character to catch falling dollars.
+- Avoid obstacles
+- Check out the in-game **Help** section for detailed instructions!
 
-<img src="start.png" alt="image" width="250"/>
-<img src="help.png" alt="image" width="250"/>
-<img src="game.png" alt="image" width="250"/>
-<img src="gameover.png" alt="image" width="250"/>
+Enjoy the game and beat your high score! 🎮
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="start.png" alt="Start Screen" width="250"/>
+  <img src="help.png" alt="Help Screen" width="250"/>
+  <img src="game.png" alt="Gameplay" width="250"/>
+  <img src="gameover.png" alt="Game Over" width="250"/>
+</p>
